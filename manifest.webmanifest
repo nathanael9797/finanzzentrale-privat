@@ -1,1 +1,21 @@
-{"name":"Finanzzentrale – Privat","short_name":"Finanzzentrale","start_url":"./","display":"standalone","background_color":"#0b1020","theme_color":"#111827","lang":"de"}
+{
+  "id": "./",
+  "name": "Finanzzentrale – Privat",
+  "short_name": "Finanzzentrale",
+  "description": "Private Finanzzentrale für Liquidität, Fristen und Zahlungen",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#eef3f8",
+  "theme_color": "#eef3f8",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
